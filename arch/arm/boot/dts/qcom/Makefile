@@ -30,6 +30,7 @@ dtb-$(CONFIG_ARCH_MSM8974) += msm8974-v1-cdp.dtb \
 	msm8974pro-ac-pma8084-pm8941-mtp.dtb
 dtb-$(CONFIG_ARCH_MSM8909) += msm8909-sim.dtb \
 	msm8909-rumi.dtb \
+	msm8909-qrd-t302.dtb \
 	msm8909-qrd-skua.dtb \
 	msm8909-qrd-skuc.dtb \
 	msm8909-qrd-skue.dtb \
