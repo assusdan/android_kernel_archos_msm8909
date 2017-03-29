@@ -2767,9 +2767,9 @@ static struct attribute *stk_ps_attrs [] =
 };
 
 static struct attribute_group stk_ps_attribute_group = {
-//#ifndef QUALCOMM_PLATFORM
+#ifndef QUALCOMM_PLATFORM
   .name = "device", 
-//#endif  
+#endif  
   .attrs = stk_ps_attrs,
 };
 
