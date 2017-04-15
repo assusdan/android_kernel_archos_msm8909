@@ -7910,7 +7910,7 @@
 
 		sound {
 			compatible = "qcom,msm8x16-audio-codec";
-			qcom,model = "msm8909-skue-t302-snd-card";
+			qcom,model = "msm8909-skue-snd-card";
 			qcom,msm-snd-card-id = <0x0>;
 			qcom,msm-codec-type = "internal";
 			qcom,msm-ext-pa = "primary";
